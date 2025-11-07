@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: legged_gym
+Version: 1.0.0
+Summary: Modified from Isaac Gym environments for Legged Robots
+Author: Hongxi Wang, Nicolas Rudin
+Author-email: rudinn@ethz.ch
+License: BSD-3-Clause
+License-File: LICENSE
+Requires-Dist: isaacgym
+Requires-Dist: matplotlib
